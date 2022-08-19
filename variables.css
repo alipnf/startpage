@@ -1,0 +1,45 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #08151E;
+  --color-bg-base: #0A1A25;
+  --color-bg-surface: #0C1F2C;
+  --color-bg-highlight: #0E2434;
+  --color-fg-shade: #7F9887;
+  --color-fg-base: #A6B7AB;
+  --color-fg-surface: #CDD6CF;
+  --color-fg-highlight: #F3F5F4;
+  --color-primary-bg: #12252E;
+  --color-primary-base: #234A5C;
+  --color-primary-fg: #356F8B;
+  --color-secondary-bg: #2B0C17;
+  --color-secondary-base: #56182F;
+  --color-secondary-fg: #812446;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Quicksand;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1100px;
+  --surface-shadow: 12px 12px 0px #12252E;
+  --surface-borderRadius: 0px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 3;
+}
